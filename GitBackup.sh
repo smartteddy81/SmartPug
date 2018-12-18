@@ -7,7 +7,7 @@ git config --global user.name "smartteddy81"
 git add .
 git commit -m "backup data"
 git push
-sleep 4
-echo | "smartteddy81"
-sleep 4
-echo | "smartteddy_kb81"
+#sleep 4
+#echo | "smartteddy81"
+#sleep 4
+#echo | "smartteddy_kb81"
